@@ -1,0 +1,6 @@
+C:\Users\5Tp\Desktop\Egzaminy\Egzamin3\testy\Cezar.Tests\Cezar.Tests\obj\Debug\net8.0\Cezar.Tests.csproj.AssemblyReference.cache
+C:\Users\5Tp\Desktop\Egzaminy\Egzamin3\testy\Cezar.Tests\Cezar.Tests\obj\Debug\net8.0\Cezar.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5Tp\Desktop\Egzaminy\Egzamin3\testy\Cezar.Tests\Cezar.Tests\obj\Debug\net8.0\Cezar.Tests.AssemblyInfoInputs.cache
+C:\Users\5Tp\Desktop\Egzaminy\Egzamin3\testy\Cezar.Tests\Cezar.Tests\obj\Debug\net8.0\Cezar.Tests.AssemblyInfo.cs
+C:\Users\5Tp\Desktop\Egzaminy\Egzamin3\testy\Cezar.Tests\Cezar.Tests\obj\Debug\net8.0\Cezar.Tests.csproj.CoreCompileInputs.cache
+C:\Users\5Tp\Desktop\Egzaminy\Egzamin3\testy\Cezar.Tests\Cezar.Tests\obj\Debug\net8.0\Cezar.Tests.sourcelink.json

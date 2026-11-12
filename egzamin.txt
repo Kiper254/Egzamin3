@@ -1,0 +1,44 @@
+DOKUMENTACJA APLIKACJI — SZYFR CEZARA
+
+Numer zdającego ................................
+
+1. System operacyjny
+
+Windows 10 lub Windows 11.
+
+2. Środowisko programistyczne
+
+Microsoft Visual Studio.
+
+3. Język programowania
+
+C#.
+
+4. Aplikacja konsolowa
+
+Aplikacja konsolowa realizuje szyfr Cezara. Program pobiera z klawiatury tekst jawny oraz klucz szyfrowania. Każda mała litera alfabetu łacińskiego jest przesuwana o wartość klucza. Spacje pozostają bez zmian. Program obsługuje klucze dodatnie, ujemne, równe zero oraz większe od długości alfabetu.
+
+5. Aplikacja desktopowa
+
+Aplikacja desktopowa jest graficznym interfejsem programu konsolowego. Użytkownik wpisuje klucz i tekst jawny, a następnie naciska przycisk „Zaszyfruj”. Wynik jest prezentowany w polu „Tekst zaszyfrowany”. Przycisk „Zapisz szyfr w pliku” otwiera systemowe okno zapisu i zapisuje tekst do wybranego pliku.
+
+6. Testy jednostkowe
+
+Wykonano pięć testów jednostkowych zgodnych ze scenariuszem z arkusza
+- dane podstawowe,
+- zawijanie alfabetu,
+- klucz ujemny,
+- klucz większy niż długość alfabetu,
+- spacja w tekście.
+
+7. Zrzuty ekranu
+
+konsola1.png — tekst abc i klucz 3.
+konsola2.png — tekst xyz i klucz 3.
+desktop1.png — stan początkowy aplikacji.
+desktop2.png — wynik szyfrowania.
+test1.png — pierwszy test jednostkowy.
+test2.png — drugi test jednostkowy.
+test3.png — trzeci test jednostkowy.
+test4.png — czwarty test jednostkowy.
+test5.png — piąty test jednostkowy.
